@@ -12,7 +12,7 @@ to merge them.
 I do not particularly intend to keep this branch massively up to
 date any more than is required for the project I'm working on.
 
-Fork created by RevPriest pre@dalliance.net
+Fork created by RevPriest pre@dalliance.net AKA adam@jakuta.co.uk
 
 ## How does it work?
 
