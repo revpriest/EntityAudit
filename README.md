@@ -3,6 +3,17 @@
 This extension for Doctrine 2 is inspired by [Hibernate Envers](http://www.jboss.org/envers) and
 allows full versioning of entities and their associations.
 
+## THIS FORK
+
+This fork was created since the original appears to be abandoned, and some
+pull requests I wanted were not getting merged. I created this branch
+to merge them.
+
+I do not particularly intend to keep this branch massively up to
+date any more than is required for the project I'm working on.
+
+Fork created by RevPriest pre@dalliance.net
+
 ## How does it work?
 
 There are a bunch of different approaches to auditing or versioning of database tables. This extension
